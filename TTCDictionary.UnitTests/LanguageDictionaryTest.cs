@@ -12,8 +12,7 @@ namespace TTCDictionary.UnitTests
     {
 
         //This project is for testing for my Github knowledge
-        // i will upload same proejct many times on github for the practicing of the github and git
-        // please ignore the multiple version of the same proejct
+        // above line is added by abhishek srivastava
         private LanguageDictionary SUT;
 
         private Dictionary<string, string> list;

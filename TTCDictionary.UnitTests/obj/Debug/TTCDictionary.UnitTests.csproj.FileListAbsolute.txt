@@ -46,3 +46,12 @@ C:\Users\admin\Documents\GitProjectPractice\interview1\interview\TTCDictionary.U
 C:\Users\admin\Documents\GitProjectPractice\interview1\interview\TTCDictionary.UnitTests\obj\Debug\TTCDictionary.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\admin\Documents\GitProjectPractice\interview1\interview\TTCDictionary.UnitTests\obj\Debug\TTCDictionary.UnitTests.dll
 C:\Users\admin\Documents\GitProjectPractice\interview1\interview\TTCDictionary.UnitTests\obj\Debug\TTCDictionary.UnitTests.pdb
+C:\Users\admin\Documents\GitProjectPractice\Againinterview\Test_14_10_17\TTCDictionary.UnitTests\bin\Debug\TTCDictionary.UnitTests.dll
+C:\Users\admin\Documents\GitProjectPractice\Againinterview\Test_14_10_17\TTCDictionary.UnitTests\bin\Debug\TTCDictionary.UnitTests.pdb
+C:\Users\admin\Documents\GitProjectPractice\Againinterview\Test_14_10_17\TTCDictionary.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\admin\Documents\GitProjectPractice\Againinterview\Test_14_10_17\TTCDictionary.UnitTests\bin\Debug\TTCDictionary.dll
+C:\Users\admin\Documents\GitProjectPractice\Againinterview\Test_14_10_17\TTCDictionary.UnitTests\bin\Debug\TTCDictionary.pdb
+C:\Users\admin\Documents\GitProjectPractice\Againinterview\Test_14_10_17\TTCDictionary.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\admin\Documents\GitProjectPractice\Againinterview\Test_14_10_17\TTCDictionary.UnitTests\obj\Debug\TTCDictionary.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitProjectPractice\Againinterview\Test_14_10_17\TTCDictionary.UnitTests\obj\Debug\TTCDictionary.UnitTests.dll
+C:\Users\admin\Documents\GitProjectPractice\Againinterview\Test_14_10_17\TTCDictionary.UnitTests\obj\Debug\TTCDictionary.UnitTests.pdb
